@@ -1,0 +1,2 @@
+Read about the KL(Kullback-Leibler) Divergence of two Poisson distributions from : https://en.wikipedia.org/wiki/Poisson_distribution
+Used google search for numpy syntax and latex syntax.
